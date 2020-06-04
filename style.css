@@ -1,0 +1,43 @@
+
+.aa{
+    margin-left: 50px;
+}
+
+.a {
+    margin-top: 50px;
+     display:flex;
+    justify-content:space-between; 
+}    
+
+.b{
+    margin-top: -50px;
+    margin-left: 50px;
+       display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+body{
+    background-color:#f3dc0a;
+}
+
+.g{
+    margin-top: 50px;
+}
+.c{
+    margin-top: -1000px;
+}
+
+.d{
+    margin-top: 80px;
+}
+
+.e{
+    margin-top: -280px;
+    margin-left: 1200px ;
+}
+
+.f{
+    margin-top: 80px;
+    margin-left: 1180px ;
+}
