@@ -1,43 +1,10 @@
-
-.aa{
-    margin-left: 50px;
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-.a {
-    margin-top: 50px;
-     display:flex;
-    justify-content:space-between; 
-}    
-
-.b{
-    margin-top: -50px;
-    margin-left: 50px;
-       display:flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
-body{
-    background-color:#f3dc0a;
-}
-
-.g{
-    margin-top: 50px;
-}
-.c{
-    margin-top: -1000px;
-}
-
-.d{
-    margin-top: 80px;
-}
-
-.e{
-    margin-top: -280px;
-    margin-left: 1200px ;
-}
-
-.f{
-    margin-top: 80px;
-    margin-left: 1180px ;
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
 }
